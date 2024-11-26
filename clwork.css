@@ -1,0 +1,91 @@
+.contianer h1{
+    color: brown;
+    text-align: center;
+    /* padding-left: 200px; */
+    font-weight: bold;
+    padding-top: 150px;
+  
+}
+.box input{
+    border-radius: 50px;
+    width: 350px;
+    padding: 5px;
+   margin-left: 400px;
+   box-shadow: 1px 1px black;
+   padding-left: 60px;
+}
+/* body{
+    background: rgb(43, 41, 43);
+    background:linear-gradient(rgb(255, 252, 251),rgb(42, 44, 43),rgb(115, 112, 114));
+    width: 80%;
+    
+} */
+/* .contianer{
+    background: purple;
+    background:linear-gradient(aqua,purple,aqua);
+    width: 100%;
+      
+} */
+.box i{
+    color: rgb(102, 102, 196);
+    position: relative;
+    right: 110px;
+    margin-left: 20px;
+}
+.icon{
+    position: absolute;
+    left: 430px;
+    top: 236px;
+}
+ /* .header{
+    border-radius: 20px;
+ } 
+ body{
+    background-color: bisque;
+    width: 100%;
+    height: 60%;
+ } */
+  
+/* .right img{
+    width: 250px;
+    margin-left: 200px;
+    border-radius: 10%;
+    padding-top: 30px;
+ }
+ .box img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+ }
+ .box{
+background-color:white;
+width: 350px;
+height: 200px;
+
+position: absolute;
+top: 160px;
+left: 310px;
+border-radius: 15px;
+ }
+ .qoral{
+    margin-left: 660px;
+    margin-top: -450px;
+ }
+ .qoral h2{
+    color: yellow;
+    
+ }
+ .icons i{
+    margin-left: 620px;
+    padding: 40px;
+    display: flex;
+   
+ }
+ .p1{
+    margin-left: 660px;
+    padding: 40px;
+    margin-top: -302px;
+    
+ }
+
+  */
